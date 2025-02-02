@@ -1,5 +1,5 @@
-Terraform Init
-Terraform plan
+Terraform init \
+Terraform plan \
 Terraform apply
 
 Apply complete! Resources: 4 added, 0 changed, 0 destroyed.
